@@ -1,25 +1,28 @@
 <div align="center">
-
+  
 #  About Me
+</div>
+
 **Passionate Python and GenAi enthusiast** with proficiency in HTML, CSS, Python, and Java. A communicator and design thinker with excellent problem-solving skills. Adapt at teamwork, adapting quickly to new challenges, and managing time effectively. Seeking to leverage my technical skills and collaborative abilities in a dynamic role.
-
+- I'm currently learning Node.js and its framework
+- I'm looking for help to get placements in MAANGO
+  
 ---
-
+<div align="center">
+  
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-chakravarthi/) 
 
----
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+## 💻 I work in
+<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+## Intrested in 
+<img width="50" height="50" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/>
 ---
+## Workspaces
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
 
 </div>
