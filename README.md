@@ -25,4 +25,6 @@
 ## Workspaces
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
 
+![](https://komarev.com/ghpvc/?username=your-github-Ajaychaki2004&color=brightgreen)
+
 </div>
