@@ -25,7 +25,11 @@
 ---
 ## Workspaces
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
-
+---
+## Visitors count
 ![](https://komarev.com/ghpvc/?username=your-github-Ajaychaki2004&color=brightgreen)
 
+ <blockquote style="font-style: italic; font-size: 2.2em; margin: 20px 0; color: #555;">
+    Copyright @ Ajay chakravarthi
+  </blockquote>
 </div>
