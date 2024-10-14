@@ -21,7 +21,7 @@
 <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 
 ## Intrested in 
-<img width="50" height="50" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/angularjs.png" alt="angularjs"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 ---
 ## Workspaces
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
