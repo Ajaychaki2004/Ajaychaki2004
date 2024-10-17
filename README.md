@@ -6,7 +6,7 @@
 **Passionate Python and GenAi enthusiast** with proficiency in HTML, CSS, Python, and Java. A communicator and design thinker with excellent problem-solving skills. Adapt at teamwork, adapting quickly to new challenges, and managing time effectively. Seeking to leverage my technical skills and collaborative abilities in a dynamic role.
 - I'm currently learning Node.js and its framework
 - I'm looking for help to get placements in MAANGO
-- Intreseted to collabrate wuth new technologies
+- Intreseted to collabrate with new technologies
   
 ---
 <div align="center">
