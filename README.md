@@ -29,9 +29,14 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaychaki2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</p>
+## Github Contributions 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaychaki2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajaychaki2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://streak-stats.demolab.com?user=Ajaychaki2004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 ---
 ## Visitors count
