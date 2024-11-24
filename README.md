@@ -28,6 +28,12 @@
 ## Workspaces
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaychaki2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+</p>
+
+---
 ## Visitors count
 ![](https://komarev.com/ghpvc/?username=your-github-Ajaychaki2004&color=brightgreen)
 
