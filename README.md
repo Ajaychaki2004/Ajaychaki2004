@@ -1,48 +1,94 @@
 <div align="center">
   
-# 👋 About Me
+# Ajay Chakravarthi — Full-Stack Developer | AI Enthusiast
 </div>
 
-**Passionate Python and GenAi enthusiast** with proficiency in HTML, CSS, Python, and Java. A communicator and design thinker with excellent problem-solving skills. Adapt at teamwork, adapting quickly to new challenges, and managing time effectively. Seeking to leverage my technical skills and collaborative abilities in a dynamic role.
-- I'm currently learning Node.js and its framework
-- I'm looking for help to get placements in MAANGO
-- Intreseted to collabrate with new technologies
-  
+## 👋 About Me
+
+I’m **Ajay Chakravarthi**, a passionate full-stack developer and technology enthusiast from India, driven by curiosity and a purpose to build impactful solutions.
+
+- 🔧 Skilled in full-stack development:
+  - **Backend:** Django, MongoDB
+  - **Frontend:** React, Next.js
+
+- 🚀 Experienced in developing AI-powered solutions, including a smart attendance system using QR code, facial recognition, and GPS
+- 📚 **Actively exploring:** Machine Learning and AI model deployment,cloud computing and automation,Data Structures and Algorithms (DSA)
+
+My journey has been self-driven, hands-on, and fueled by open-source tools.
+Currently, I’m diving deeper into AI/ML model deployment and DSA. Whether it's through hackathons, freelance projects, or academic work, I'm always eager to solve real problems with clean, scalable code.
+
+I’m always eager to create clean, scalable code and transform innovative ideas into functional products.
+
 ---
-<div align="center">
+
   
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-chakravarthi/) 
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/ajay-chakravarthi/)
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/ajay_chakii/)
+
 
 
 
 ## 💻 I work in
-<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+<img width="12" /><br>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-## Intrested in 
-<img width="50" height="50" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/><img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 ---
-## Workspaces
-![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=dark&font=Coda%20Caption&ext=heatmap)
+## 📊 Competitive Programming
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=unicorn&font=Brawler&ext=heatmap)
 ---
 
 ## Github Contributions 
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=Ajaychaki2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="38%" />
+  <img width="50" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaychaki2004&theme=radical&hide_border=false" width="38%" />
 </p>
 
-
-
 ---
-## Visitors count
+<div align="center">
+  
+## Profile Check-ins
+
 ![](https://komarev.com/ghpvc/?username=your-github-Ajaychaki2004&color=brightgreen)
 
  <blockquote style="font-style: italic; font-size: 2.2em; margin: 20px 0; color: #555;">
     Copyright @ Ajay chakravarthi
   </blockquote>
 </div>
+
