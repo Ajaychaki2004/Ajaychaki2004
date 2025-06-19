@@ -47,6 +47,8 @@ I’m always eager to create clean, scalable code and transform innovative ideas
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 <img width="12" /><br>
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 <img width="12" />
@@ -65,6 +67,8 @@ I’m always eager to create clean, scalable code and transform innovative ideas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<img width="12" />
+
 </div>
 
 ---
