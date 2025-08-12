@@ -10,33 +10,15 @@
 **Exploring:** ML Deployment • Cloud Automation • DSA  
 
 
-### 🎯 Focus & Principles
-
-| Focus Now | Core Principles | Snapshot |
-|-----------|-----------------|----------|
-| <kbd>Model Deployment</kbd> <kbd>Edge AI</kbd> <kbd>System Design</kbd> <kbd>DSA Mastery</kbd> <kbd>Cloud Automation</kbd> | 1. Readable & testable code <br> 2. Performance-aware architecture <br> 3. Automate repeatables <br> 4. Ship → Measure → Iterate <br> 5. Learn via open source | Full‑Stack Apps <br> AI Integrations <br> Cloud Ready <br> API Design <br> Data Modeling <br> Automation |
-
----
-
-### 🛠 Tech Stack (Core)
-![Python](https://img.shields.io/badge/Python-555?logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-555?logo=django&logoColor=fff)
-![React](https://img.shields.io/badge/React-555?logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-555?logo=nextdotjs&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-555?logo=mongodb&logoColor=47a248)
-![Postgres](https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-555?logo=amazonaws&logoColor=ff9)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-555?logo=tailwindcss&logoColor=06B6D4)
-
----
-
-  
-## 🌐 Socials
+## 🌐 Reach Me
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/ajay-chakravarthi/)
+&nbsp;&nbsp;
 [![twitter logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/ajay_chakii?t=t-F6rZ5yFOZMoqbHvo_JoA&s=09)
+&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/ajay_chakii/)
 
-## 💻 I work in
+
+## 💻 Expertise
 
 <table>
   <tr>
@@ -74,17 +56,17 @@
   <tr>
     <th>AWS</th>
     <th>Java</th>
-    <th>Jira</th>
+    <th>Docker</th>
     <th>Material UI</th>
-    <th>Salesforce</th>
+    <th>Git</th>
     <th>MongoDB</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="aws"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="42" alt="java"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jira" width="42" alt="jira"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="java"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="docker"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="42" alt="material ui"/></td>
-    <td align="center"><img src="[https://skillicons.dev/icons?i=salesforce](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg)" width="42" alt="salesforce"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="42" alt="Git"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="mongodb"/></td>
   </tr>
 </table>
