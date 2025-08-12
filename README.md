@@ -82,6 +82,9 @@ I’m always eager to create clean, scalable code and transform innovative ideas
   <img src="https://github-readme-stats.vercel.app/api?username=Ajaychaki2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="38%" />
   <img width="50" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaychaki2004&theme=radical&hide_border=false" width="38%" />
+  <img width="50" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaychaki2004&theme=github-compact&hide_border=true" width="95%">
 </p>
 
 ---
