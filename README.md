@@ -77,7 +77,7 @@
     <th>GitHub</th>
     <th>HTML5</th>
     <th>TensorFlow</th>
-    <th>Tailwind CSS</th>
+    <th>Tailwind</th>
     <th>Figma</th>
     <th>MySQL</th>
     <th>Redis</th>
