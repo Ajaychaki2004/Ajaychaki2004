@@ -1,13 +1,20 @@
-## 👋 About Me
+<div align="center">
+  
+## Ajay Chakravarthi — Full-Stack Developer | AI Enthusiast
 
+</div>
+  
 > ### 🙋‍♂️ Intro  
 
-**I’m Ajay Chakravarthi** — full‑stack developer from India focused on clean architecture, AI-enabled products, and fast iteration cycles.
+**Passionate Python and GenAi enthusiast** with proficiency in HTML, CSS, Python, and Java. A communicator and design thinker with excellent problem-solving skills. Adapt at teamwork, adapting quickly to new challenges, and managing time effectively. Seeking to leverage my technical skills and collaborative abilities in a dynamic role
 
-### 🧩 Summary  
-**Backend:** Django • MongoDB  
-**Frontend:** React • Next.js  
-**Exploring:** ML Deployment • Cloud Automation • DSA  
+- 🚀 Experienced in developing AI-powered solutions, including a smart attendance system using QR code, facial recognition, and GPS
+- 📚 **Actively exploring:** Machine Learning and AI model deployment,cloud computing and automation,Data Structures and Algorithms (DSA)
+
+> ###  🧩 Summary  
+- **Backend:** Django • MongoDB  
+- **Frontend:** React • Next.js  
+- **Exploring:** ML Deployment • Cloud Automation • DSA  
 
 
 ## 🌐 Reach Me
@@ -18,7 +25,7 @@
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/ajay_chakii/)
 
 
-## 💻 Expertise
+## Expertise
 
 <table>
   <tr>
@@ -28,6 +35,9 @@
     <th>Python</th>
     <th>Next.js</th>
     <th>Django</th>
+    <th>Node.js</th>
+    <th>TensorFlow</th>
+    <th>PyTorch</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="42" alt="javascript"/></td>
@@ -36,41 +46,116 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="python"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="nextjs"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="42" alt="django"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="nodejs"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="tensorflow"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="pytorch"/></td>
   </tr>
   <tr>
-    <th>Figma</th>
-    <th>StackOverflow</th>
-    <th>PostgreSQL</th>
-    <th>TailwindCSS</th>
-    <th>Premiere Pro</th>
-    <th>Angular</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=stackoverflow" width="42" alt="stackoverflow"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="postgresql"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pr" width="42" alt="premiere pro"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="42" alt="angular"/></td>
-  </tr>
-  <tr>
-    <th>AWS</th>
-    <th>Java</th>
-    <th>Docker</th>
-    <th>Material UI</th>
-    <th>Git</th>
+    <th>FastAPI</th>
     <th>MongoDB</th>
+    <th>PostgreSQL</th>
+    <th>Docker</th>
+    <th>AWS</th>
+    <th>Azure</th>
+    <th>GCP</th>
+    <th>Firebase</th>
+    <th>Vercel</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="aws"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="java"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="docker"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="42" alt="material ui"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="42" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="fastapi"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="mongodb"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="postgresql"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="docker"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="aws"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="42" alt="azure"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="42" alt="gcp"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="42" alt="firebase"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="vercel"/></td>
+  </tr>
+  <tr>
+    
+  </tr>
+  <tr>
+    <th>Git</th>
+    <th>GitHub</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
+    <th>Tailwind CSS</th>
+    <th>Figma</th>
+    <th>MySQL</th>
+    <th>Redis</th>
+    <th>HuggingFace</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="css3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="mysql"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="42" alt="redis"/></td>
+    <td align="center"><img src="https://huggingface.co/favicon.ico" width="42" alt="huggingface"/></td>
+  </tr>
+  <tr>
+    <th>LangChain</th>
+    <th>NumPy</th>
+    <th>Postman</th>
+    <th>Streamlit</th>
+    <th>OpenCV</th>
+    <th>Canva</th>
+    <th>Cloudflare</th>
+    <th>n8n</th>
+    <th>LangGraph</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/langchain.svg" width="42" alt="langchain"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" alt="numpy"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="postman"/></td>
+    <td align="center"><img src="https://streamlit.io/favicon.svg" width="42" alt="streamlit"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" alt="opencv"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" alt="canva"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="42" alt="cloudflare"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/45487711" width="42" alt="n8n"/></td>
+    <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/langgraph.svg" width="42" alt="langgraph"/></td>
+    <td align="center"></td>
   </tr>
 </table>
 
+## Professional Certifications
+
+<table>
+  <tr>
+    <th align="left" width="400px">Certification</th>
+    <th align="left" width="200px">Issuer</th>
+    <th align="center" width="150px">Date</th>
+  </tr>
+  <tr>
+    <td>Salesforce Certified Agentforce Specialist</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="14" height="14" alt="Salesforce"/> Salesforce</td>
+    <td align="center">Apr 2025</td>
+  </tr>
+  <tr>
+    <td>Postman API Fundamentals Student Expert</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="14" height="14" alt="Postman"/> Postman</td>
+    <td align="center">Jun 2025</td>
+  </tr>
+  <tr>
+    <td>Microsoft Certified: Azure AI Fundamentals</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="14" height="14" alt="Microsoft Azure"/> Microsoft</td>
+    <td align="center">Aug 2025</td>
+  </tr>
+  <tr>
+    <td>Databricks GenAI Fundamentals</td>
+    <td><img src="https://cdn.simpleicons.org/databricks/FF3621" width="14" height="14" alt="Databricks"/> Databricks</td>
+    <td align="center">Oct 2024</td>
+  </tr>
+  <tr>
+    <td>Databricks Fundamentals Accreditation</td>
+    <td><img src="https://cdn.simpleicons.org/databricks/FF3621" width="14" height="14" alt="Databricks"/> Databricks</td>
+    <td align="center">Oct 2024</td>
+  </tr>
+</table>
 
 ---
 ## 📊 Competitive Programming
