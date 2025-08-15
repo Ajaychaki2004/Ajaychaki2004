@@ -73,13 +73,10 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="vercel"/></td>
   </tr>
   <tr>
-    
-  </tr>
-  <tr>
     <th>Git</th>
     <th>GitHub</th>
     <th>HTML5</th>
-    <th>CSS3</th>
+    <th>TensorFlow</th>
     <th>Tailwind CSS</th>
     <th>Figma</th>
     <th>MySQL</th>
@@ -90,7 +87,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="css3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="tensorflow"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="mysql"/></td>
@@ -118,7 +115,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="42" alt="cloudflare"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/45487711" width="42" alt="n8n"/></td>
     <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/langgraph.svg" width="42" alt="langgraph"/></td>
-    <td align="center"></td>
   </tr>
 </table>
 
