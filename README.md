@@ -153,10 +153,8 @@
   </tr>
 </table>
 
----
 ## 📊 Competitive Programming
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_chakii?theme=unicorn&font=Brawler&ext=heatmap)
----
 
 ## Github Contributions 
 
@@ -176,8 +174,11 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Ajaychaki2004&color=brightgreen)
 
- <blockquote style="font-style: italic; font-size: 2.2em; margin: 20px 0; color: #555;">
-    Copyright @ Ajay chakravarthi
-  </blockquote>
+ <div align="center">
+  <h3>✨ Welcome to my GitHub space! ✨</h3>
+  <p>I'm passionate about building innovative solutions with the technologies you see above.</p>
+  <p>Let's collaborate and create something amazing together!</p>
+  <p><i>— Ajay Chakravarthi</i></p>
+</div>
 </div>
 
