@@ -159,13 +159,31 @@
 ## Github Contributions 
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaychaki2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="38%" />
-  <img width="50" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaychaki2004&theme=radical&hide_border=false" width="38%" />
-  <img width="50" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaychaki2004&theme=github-compact&hide_border=true" width="95%">
-</p>
+<!-- Full-width, single card layout with even gutters -->
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+  <!-- Row 1: Stats + Streak (two equal columns) -->
+  <tr>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Ajaychaki2004&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
+        alt="GitHub Stats for Ajay chakravarthi" width="100%">
+    </td>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://streak-stats.demolab.com/?user=Ajaychaki2004&theme=github-dark&hide_border=true"
+        alt="GitHub Streak for Ajay chakravarthi" width="100%">
+    </td>
+  </tr>
+
+  <!-- Row 2: Activity graph (full width) -->
+  <tr>
+    <td colspan="2" style="padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaychaki2004&theme=github-compact&hide_border=true"
+        alt="GitHub Activity Graph for Ajay chakravarthi" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 <div align="center">
