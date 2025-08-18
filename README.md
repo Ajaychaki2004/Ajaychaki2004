@@ -76,7 +76,7 @@
     <th>Git</th>
     <th>GitHub</th>
     <th>HTML5</th>
-    <th>TensorFlow</th>
+    <th>Pandas</th>
     <th>Tailwind</th>
     <th>Figma</th>
     <th>MySQL</th>
@@ -87,7 +87,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="tensorflow"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" alt="pandas"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="mysql"/></td>
