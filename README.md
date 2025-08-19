@@ -17,12 +17,13 @@
 - **Exploring:** ML Deployment • Cloud Automation • DSA  
 
 
-## 🌐 Reach Me
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/ajay-chakravarthi/)
+> ###  🌐 Reach Me
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin logo" />](https://www.linkedin.com/in/ajay-chakravarthi/)
 &nbsp;&nbsp;
-[![twitter logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/ajay_chakii?t=t-F6rZ5yFOZMoqbHvo_JoA&s=09)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="32" alt="twitter logo" />](https://x.com/ajay_chakii?t=t-F6rZ5yFOZMoqbHvo_JoA&s=09)
 &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/ajay_chakii/)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo" />](https://www.instagram.com/ajay_chakii/)
 
 
 ## Expertise
@@ -115,6 +116,28 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="42" alt="cloudflare"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/45487711" width="42" alt="n8n"/></td>
     <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/langgraph.svg" width="42" alt="langgraph"/></td>
+  </tr>
+  <tr>
+    <th>Websockets</th>
+    <th>Claude</th>
+    <th>CrewAI</th>
+    <th>Gemini</th>
+    <th>Ollama</th>
+    <th>Mistral</th>
+    <th>OpenAI</th>
+    <th>Angular</th>
+    <th>Markdown</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="42" alt="websockets"/></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/a333a68e586e599c290a673626509c073975709ce4d7d22f8008c30bdfd07bf9/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d7376672f6c61746573742f66696c65732f69636f6e732f636c617564652d636f6c6f722e737667" width="42" alt="claude"/></td>
+    <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/crewai.svg" width="42" alt="crewAI"/></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/f58edeaee387d06dcf9d877d89676f9833b2655b32d9b91eee0e2ad6e64761b5/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d7376672f6c61746573742f66696c65732f69636f6e732f67656d696e692d636f6c6f722e737667" width="42" alt="gemini"/></td>
+    <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ollama.svg" width="42" alt="ollama"/></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/58a6d533459eca98625db3a0037ce0ee5565cdafc10e58724b1ddc46cbc7b979/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d7376672f6c61746573742f66696c65732f69636f6e732f6d69737472616c2d636f6c6f722e737667" width="42" alt="mistral"/></td>
+    <td align="center"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openai.svg" width="42" alt="openai"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="42" alt="angular"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="42" alt="markdown"/></td>
   </tr>
 </table>
 
