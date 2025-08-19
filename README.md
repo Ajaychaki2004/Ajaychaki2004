@@ -150,6 +150,11 @@
     <th align="center" width="150px">Date</th>
   </tr>
   <tr>
+    <td>Microsoft Certified: Azure AI Fundamentals</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="14" height="14" alt="Microsoft Azure"/> Microsoft</td>
+    <td align="center">Aug 2025</td>
+  </tr>
+  <tr>
     <td>Salesforce Certified Agentforce Specialist</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="14" height="14" alt="Salesforce"/> Salesforce</td>
     <td align="center">Apr 2025</td>
@@ -158,11 +163,6 @@
     <td>Postman API Fundamentals Student Expert</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="14" height="14" alt="Postman"/> Postman</td>
     <td align="center">Jun 2025</td>
-  </tr>
-  <tr>
-    <td>Microsoft Certified: Azure AI Fundamentals</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="14" height="14" alt="Microsoft Azure"/> Microsoft</td>
-    <td align="center">Aug 2025</td>
   </tr>
   <tr>
     <td>Databricks GenAI Fundamentals</td>
