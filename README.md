@@ -150,6 +150,16 @@
     <th align="center" width="150px">Date</th>
   </tr>
   <tr>
+    <td>Oracle Cloud Infrastructure 2025 Generative AI Professional</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="14" height="14" alt="Oracle"/> Oracle</td>
+    <td align="center">Aug 2025</td>
+  </tr>
+  <tr>
+    <td>Oracle Fusion AI Agent Studio Foundations Associate - Rel 1</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="14" height="14" alt="Oracle"/> Oracle</td>
+    <td align="center">Aug 2025</td>
+  </tr>
+  <tr>
     <td>Microsoft Certified: Azure AI Fundamentals</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="14" height="14" alt="Microsoft Azure"/> Microsoft</td>
     <td align="center">Aug 2025</td>
