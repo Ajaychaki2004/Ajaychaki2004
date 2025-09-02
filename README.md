@@ -24,7 +24,10 @@
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="32" alt="twitter logo" />](https://x.com/ajay_chakii?t=t-F6rZ5yFOZMoqbHvo_JoA&s=09)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo" />](https://www.instagram.com/ajay_chakii/)
-
+&nbsp;&nbsp;
+<a href="https://www.ajaychakravarthi.tech/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" alt="Portfolio" />
+</a>
 
 ## Expertise
 
